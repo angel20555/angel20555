@@ -32,7 +32,7 @@ Ninguna por el momento :)
 
 ## **📞¡Contactame!**
 
-<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=L6ZhUs3CmpA">
+<a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/@AndresAngel-nr2mi">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
   &nbsp; 
   &nbsp;
@@ -44,10 +44,10 @@ Ninguna por el momento :)
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/youtube.png" width="30px" alt="YouTube"></a>
   &nbsp;
   &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/watch?v=Xppan8J_23A">
+  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.youtube.com/@AndresAngel-nr2mi">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
   
-[![Gmail Badge](https://img.shields.io/badge/-andresangel3658@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:pablo.pds100@gmail.com)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-andresangel3658@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:andresangel3658@gmail.com)&nbsp;
 
 
 
