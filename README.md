@@ -27,7 +27,7 @@
 <img  align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
 ## **Experiencia**
-Ninguna por el momento :)
+3 meses :)
 
 
 ## **📞¡Contactame!**
